@@ -79,7 +79,7 @@ WebPage [2]: telethon.tl.types.WebPage, telethon.tl.types.messages.WebPage
 duplicate class names: 39
 check_telethon_obj_serialization: OK
 ```  
-</details>details>
+</details>
 
 ## Main code
 
