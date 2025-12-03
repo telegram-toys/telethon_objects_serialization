@@ -92,7 +92,7 @@ check_telethon_obj_serialization: OK
 
 ## Other code
 
-`report_same_basename_classes()` - report class names duplicates
+`report_same_basename_classes()` - reports class names duplicates
 
 `check_telethon_obj_serialization()` - converts passed object to string and back then compare result with source object.
 
